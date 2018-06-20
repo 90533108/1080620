@@ -1,0 +1,10 @@
+﻿<html>
+<body>
+<div>
+<video src="media/001.mp4" />
+</div>
+<div>
+<adiou src="media/001.mp3" />
+</div>
+</body>
+<html>
